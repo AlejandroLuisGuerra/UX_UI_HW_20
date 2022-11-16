@@ -1,5 +1,7 @@
 .btn-link {
-    font-size: large;
+    font-size: medium;
+    color: black;
+
 }
 .btn-primary {
     background-color: black;
@@ -7,4 +9,36 @@
     padding-right: 20px;
     padding-bottom: 10px;
     border-width: 0px;
+    width: 100%;
+}
+
+.navbar-toggler {
+    border-width: 0px;
+}
+
+#navbarSupportedContent {
+    text-align: left;
+    ;
+}
+
+.dropdown-menu {
+    background-color: rgb(255, 255, 255);
+}
+
+.card {
+    align-items: center;
+    text-align: left;
+    background-color: blanchedalmond;
+}
+
+.card-header {
+    background-color: blanchedalmond;
+}
+
+#headingOne {
+    color: black;
+}
+
+.col-sm {
+    font-size: large;
 }
